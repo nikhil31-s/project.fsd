@@ -2,7 +2,7 @@
 
 A comprehensive administrative dashboard designed to demonstrate Full Stack Developer capabilities, featuring CRUD operations, data visualization, and simulated API integrations.
 
-![Dashboard Preview](https://replit.com/public/images/opengraph.png)
+
 
 ## 🚀 Overview
 
